@@ -1,0 +1,34 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Секреты
+.env
+
+# Редакторы
+.vscode/
+.idea/
+
+# База данных
+*.db
+*.sqlite
+*.sqlite3
+
+# Видео и результаты нейросети
+storage/
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Веса моделей
+*.onnx
+*.pt
+
+# Внешний проект, не относится к этому репозиторию
+fast-volleyball-tracking-inference/
