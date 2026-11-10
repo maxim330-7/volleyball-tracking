@@ -1,0 +1,11 @@
+{
+  "video": "backline_volleyball\\dinamo_sch10_p2_1080p_h264.mp4",
+  "fps": 29.97002997002997,
+  "width": 1920,
+  "height": 1080,
+  "n_frames": 50,
+  "class_names": [
+    "player",
+    "ball"
+  ]
+}
